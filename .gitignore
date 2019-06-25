@@ -1,0 +1,12 @@
+share/
+local/
+lib/
+include/
+bin/
+__pycache__/
+weka_models/
+*.txt
+*.xlsx
+*.arff
+*.json
+*.tfrecords
